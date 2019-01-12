@@ -1,0 +1,5 @@
+[2019-01-12 18:33:35] convert.INFO: convert {"time":"18:33:35 12/01/2019","res":"100 EUR = 3243.13 UAH"} []
+[2019-01-12 19:40:26] convert.INFO: convert {"time":"19:40:26 12/01/2019","res":"100 USD = 676.27 CNY"} []
+[2019-01-12 19:43:04] convert.INFO: convert {"time":"19:43:04 12/01/2019","res":"100 RUB = 1.49 USD"} []
+[2019-01-12 19:59:52] convert.INFO: convert {"time":"19:59:52 12/01/2019","res":"100 USD = 100 USD"} []
+[2019-01-12 20:10:57] convert.INFO: convert {"time":"20:10:57 12/01/2019","res":"100 USD = 676.27 CNY"} []

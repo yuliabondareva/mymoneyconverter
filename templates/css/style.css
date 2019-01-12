@@ -1,0 +1,92 @@
+a:hover,a:focus{
+ outline: none;
+ text-decoration: none;
+}
+.nav{
+ position: absolute;
+ right: 50px;
+ top: 15px;
+ margin: auto; 	
+}
+.nav a{
+ color: #7f8291;
+ font-size: 16px;
+ margin: 0 15px;;
+}
+.nav a:hover{
+ color: #7f8291;
+ font-size: 16px;
+}
+h1, h3, th, tr{ 
+ text-align: center; 
+ padding: 20px;
+}
+table {
+ border-collapse: collapse;
+ overflow: hidden;
+ position: relative;
+ top: 15px;
+}
+th, td{
+  padding: 1px;
+  border-bottom: 2px solid white; 
+}
+.form-bg{ 
+ background: #ddd; 
+ border-radius: 20px;
+ position: absolute;
+ left: 0;
+ right: 0;
+ margin: 0 auto; 
+ }
+.form-container{
+ padding: 10px;
+ }
+.form-horizontal .form-group{
+ margin: 10px;
+ position: relative;
+}
+.form-horizontal .form-control{
+ height: 40px;
+ background: rgba(255,255,255,0.2);
+ border: none;
+ border-radius: 20px;
+ box-shadow: none;
+ padding: 0 20px;
+ font-size: 14px;
+ line-height: 40px;
+ color: #7f8291;
+ font-weight: bold;
+ transition: all 0.3s ease 0s;
+}
+.form-horizontal .form-control:focus{
+ box-shadow: none;
+ outline: 0 none;
+}
+.form-horizontal .form-group label{
+ padding: 0 20px;
+ color: #7f8291;
+ text-transform: capitalize;
+ margin-bottom: 10px;
+}
+.form-horizontal .btn{
+ width: 100%;
+ background: #eec111;
+ padding: 10px 20px;
+ border: none;
+ font-size: 14px;
+ font-weight: bold;
+ color: #fff;
+ border-radius: 20px;
+ text-transform: uppercase;
+}
+option{
+ background: #ddd;
+ font-size: 14px;
+ color: #7f8291;
+ font-weight: bold;
+}
+option:hover {
+  background: rgba(255,255,255,0.2);
+  color: #eec111;
+}
